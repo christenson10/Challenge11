@@ -21,7 +21,7 @@ app.get('/', (req, res) => {
 
 // app.get('/api/notes', (req, res) => {
 // //use FS library to read db.json file in db folder... take data to send back 
-//   // data getNotes().then((notes) => res.json(results);
+//   res.json(notes);
 // });
 
 // app.post('/api/notes', (req, res) => {

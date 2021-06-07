@@ -18,23 +18,18 @@ As a small business owner, I want to be able to write and save notes to help org
 * SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Live URL
-
+https://christenson10.github.io/Challenge11/
 ## Github Link
-https://christenson10.github.io/challenge11/
+https://github.com/christenson10/Challenge11.git
 
 ## Pictures
 
 ## README Preview 1
-
+localhost:3001 takes to Note Taker
 
 ![Screenshot1](NoteTakerScreenshot1.jpg)
 
 ## README Preview 2
-
+localhost:3001/notes takes you to text boxes
 
 ![Screenshot2](NoteTakerScreenshot2.jpg)
-
-## README Preview 3
-
-
-![Screenshot2](NoteTakerScreenshot3.jpg)
